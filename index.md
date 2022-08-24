@@ -5,3 +5,5 @@
 ```
 This is a test for javascript
 ```
+- [ ] This is a test for a checkbox
+- [x] with checked
